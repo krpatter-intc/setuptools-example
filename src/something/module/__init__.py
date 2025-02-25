@@ -1,0 +1,1 @@
+print("something.module imported")
